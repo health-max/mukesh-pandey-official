@@ -1,0 +1,10 @@
+
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f9f9f9; }
+header { background: #00695c; color: white; padding: 20px; text-align: center; }
+nav { background: #004d40; padding: 10px; text-align: center; }
+nav a { color: white; text-decoration: none; margin: 0 15px; font-weight: bold; }
+nav a:hover { text-decoration: underline; }
+.container { width: 90%; max-width: 1000px; margin: auto; padding: 20px; background: white; margin-top: 20px; }
+footer { text-align: center; background: #004d40; color: white; padding: 10px; margin-top: 20px; }
+h1, h2, h3 { color: #00695c; }
+.post { border-bottom: 1px solid #ddd; padding: 10px 0; }
